@@ -1,9 +1,12 @@
 <h1 align="center">
-  Blobs Simulation
+<br>
+    <img src="Project1/grownblob.png" width = 70 title="GrownBlob">
+    <br>
+    Blobs Simulation
   <br>
 </h1>
 
-<h3 align="center">An application made with C++</a></h3>
+<h3 align="center">A program made with C++</a></h3>
 <p align="center">
   <a href="#what-is-it">What it is</a> •
   <a href="#how-to-run">How to run</a> •
